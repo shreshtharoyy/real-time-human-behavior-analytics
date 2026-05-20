@@ -19,7 +19,7 @@ The system performs real-time pose estimation, extracts human body keypoints, an
 
 The system detects when the user is facing forward and maintaining attentive posture.
 
-![Attentive State](demo/attentive_state.png)
+<img src="demo/attentive_state.png" width="600"/>
 
 ---
 
@@ -27,7 +27,7 @@ The system detects when the user is facing forward and maintaining attentive pos
 
 The system performs temporal behavior analysis and triggers a distraction alert when head orientation remains turned away continuously for a sustained duration.
 
-![Distraction Detection](demo/distraction_detection.png)
+<img src="demo/distraction_detection.png" width="600"/>
 
 ---
 
